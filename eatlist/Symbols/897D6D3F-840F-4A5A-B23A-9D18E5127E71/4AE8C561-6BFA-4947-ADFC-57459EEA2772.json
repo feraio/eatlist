@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AE8C561-6BFA-4947-ADFC-57459EEA2772",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CBE4124-97FD-49E6-A004-CB2C12ECAF2A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DF1EDC0-D050-4313-B4E5-5577164DE749",
+    "height": 44,
+    "width": 180,
+    "x": 0,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Left Accessory",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24B78F22-8B91-4EB7-AC41-B430FB3ACEC4",
+      "overrideName": "540594B0-AE6B-4C9C-A7ED-6599203A16EE_flowDestination",
+      "value": "back"
+    }
+  ],
+  "resizingConstraint": 11,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3774FB04-0D64-40E0-95D8-18F70D4E01C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E739FCA3-AFC9-4999-8CB5-4A0BD35AF747",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

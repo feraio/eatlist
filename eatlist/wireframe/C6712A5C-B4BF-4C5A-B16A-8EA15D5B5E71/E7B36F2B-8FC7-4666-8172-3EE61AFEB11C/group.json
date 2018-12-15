@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7B36F2B-8FC7-4666-8172-3EE61AFEB11C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0AA7DCC4-6E2D-43AA-8B5A-9A2334793A0B"
+    },
+    {
+      "class": "group",
+      "id": "544DD23F-457C-49F1-A724-45D5A30191F9"
+    },
+    {
+      "class": "text",
+      "id": "BA591065-53A9-45AF-872E-10FF9398382F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FD345F7-0A7B-4E54-8A4E-156F4FD0977A"
+    }
+  ],
+  "name": "Bars / Navigation Bar / iPhone X / Light - Large with Search2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

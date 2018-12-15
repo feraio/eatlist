@@ -1,0 +1,171 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "935EE960-61D0-47E9-A4D5-71E3EAA706D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76A58883-0308-4701-BD44-CAC8A89D56E8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7003EDFD-DB0A-44AA-95F0-AB84120A1CBC",
+    "height": 76,
+    "width": 208,
+    "x": 84,
+    "y": 296
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F408C968-0EAB-4C13-B29E-906829EDA207"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA89D8C4-1419-45BA-8149-86B4E29B183D"
+    },
+    {
+      "class": "shapePath",
+      "id": "27E0F9BB-86F3-4385-BFE0-656373AB49D2"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B90DB80-7CEF-4F5F-8F3F-CF60948DE1EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6C5E933-F38C-4A80-A8C9-8F478BBF92F0"
+    },
+    {
+      "class": "shapePath",
+      "id": "01B9BD56-01E7-4967-8E13-AE73B51E289A"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B8DEFB3-52AE-416C-96CF-1DFAEB8C3316"
+    },
+    {
+      "class": "shapePath",
+      "id": "D59D9852-C51C-4EBD-8735-4A851A41D737"
+    },
+    {
+      "class": "shapePath",
+      "id": "C245FF77-4ECC-4594-96A2-6681D6F4F2A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "DCCB2363-08BF-4BEC-BED4-D7578F6F457F"
+    },
+    {
+      "class": "shapePath",
+      "id": "500192C1-C8D5-431F-A2D9-1FA9C389B4E4"
+    }
+  ],
+  "name": "eatlist",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F35E97AF-66B4-4E79-808D-84C8C2726FB3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2D1DE77E-53E4-4CBF-B733-86E273EE63C7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1058823529411765,
+          "green": 0.1019607843137255,
+          "red": 0.08235294117647059
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "D747E787-7267-4655-9F67-FF65A7B7EB2B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1058823529411765,
+          "green": 0.1019607843137255,
+          "red": 0.08235294117647059
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProDisplay-Heavy",
+            "size": 150
+          }
+        },
+        "kerning": -5.789999961853027,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 143,
+          "minimumLineHeight": 143,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

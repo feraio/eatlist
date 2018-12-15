@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E1F4183-BCC5-4FA9-8CFC-D571DA7504E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54AD4A2E-DA05-4808-AF92-69295C3191BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F2A5DE12-A862-4574-8276-55F7FEB7EE3B",
+    "height": 512,
+    "width": 512,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Smooth Corners",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6A7A452-57FD-40C3-AC5A-8D4AA17EAFF0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67CEFF61-2F3C-4D5C-8088-B80083597F05",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1912,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D626BAB-1BF6-4234-9DED-22FD012F5979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 48,
+    "x": 304,
+    "y": 413
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5C5105CE-3F52-40B1-88F6-FD9CC29E35B0"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "12AFBD73-47D4-46C0-A5ED-7118D51D0239"
+    },
+    {
+      "class": "text",
+      "id": "8EC6159B-1F58-4155-AB04-59BC6A4F0F1B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC14E374-E9A9-44D0-886E-E8B408539737"
+    }
+  ],
+  "name": "Bars / Tab Bar / x / Tab Button / Inactive",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C75721B1-C2DB-44C6-A0E4-C0FA03C965AC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

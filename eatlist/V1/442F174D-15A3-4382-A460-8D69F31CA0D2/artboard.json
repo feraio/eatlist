@@ -1,0 +1,189 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "442F174D-15A3-4382-A460-8D69F31CA0D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1196,
+    "width": 375,
+    "x": -663,
+    "y": -334
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "61960BFA-F43B-4983-99A9-E6B711F4D915"
+    },
+    {
+      "class": "text",
+      "id": "240296A3-8B54-4C23-A0C6-F515FE81CFA8"
+    },
+    {
+      "class": "group",
+      "id": "21027E9E-3EF3-45D1-B1AB-AB0AD4DE1E87"
+    },
+    {
+      "class": "text",
+      "id": "B27DCCB0-6DDF-4A6E-A842-F39AD1B81C3B"
+    },
+    {
+      "class": "group",
+      "id": "E874789C-B442-4ED5-8766-8B795B8EC8B6"
+    },
+    {
+      "class": "group",
+      "id": "8C7F0A8C-9846-4555-AF7D-9515F44424E7"
+    },
+    {
+      "class": "group",
+      "id": "93DE7E27-3D3D-441E-81D8-6FDE2ACD6244"
+    },
+    {
+      "class": "group",
+      "id": "59DC437D-382C-4F15-A0AA-16D61AF5710E"
+    },
+    {
+      "class": "group",
+      "id": "5FB6A16C-AF46-4324-B68D-20DD9DA4B4D4"
+    },
+    {
+      "class": "group",
+      "id": "3FA39875-2090-41AE-BE28-19907D94323F"
+    },
+    {
+      "class": "text",
+      "id": "9D165636-19C4-4DD7-B26D-9D6F55A50FFC"
+    },
+    {
+      "class": "group",
+      "id": "3659AFFC-23A1-4E01-8073-36BABBD08C1C"
+    },
+    {
+      "class": "group",
+      "id": "ACDC8634-B2C6-4892-8348-E3CFFA73CF52"
+    },
+    {
+      "class": "group",
+      "id": "255A5CA0-53CD-4AF5-BF42-71A23C790287"
+    },
+    {
+      "class": "group",
+      "id": "A25D618C-17C5-4C29-A901-05C4A5DF1277"
+    },
+    {
+      "class": "group",
+      "id": "73669042-1432-4610-BC02-12D9B5E26670"
+    },
+    {
+      "class": "group",
+      "id": "F0A8919D-08A2-4FC6-93D3-E514D4FAEFFA"
+    },
+    {
+      "class": "group",
+      "id": "ADF02E11-D944-4CB8-83D9-2929B3D1CF33"
+    },
+    {
+      "class": "group",
+      "id": "B43E3927-1FE8-4F6D-838F-CF691D19F094"
+    },
+    {
+      "class": "group",
+      "id": "C3869AA4-9E99-4BB7-9166-4783BA893451"
+    },
+    {
+      "class": "group",
+      "id": "35B51C49-D855-4BAE-9EE6-FBDD955FEA3B"
+    },
+    {
+      "class": "group",
+      "id": "62AF1BD3-3845-4B8E-ADC0-32CF0BDCA3F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84BCFF54-CF7B-4E57-9EC5-6F814F70127D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BB8927F-9971-4460-9354-B087586BA7AA"
+    },
+    {
+      "class": "group",
+      "id": "12E2DCE7-1876-4866-A6F6-2B856B0F9C54"
+    }
+  ],
+  "name": "02-Search_list-search",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      99,
+      77.71012039873017,
+      53
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.7026998299319728,
+            "green": 0.6818217928447421,
+            "red": 0.6818217928447421
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProDisplay-Light",
+              "size": 17
+            }
+          },
+          "kerning": 0.4099999964237213,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
+          }
+        },
+        "length": 6,
+        "location": 0
+      }
+    ],
+    "string": "Buscar"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7EE9394F-DB0C-47C3-A10B-4C0E2DA6A747",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 51,
+    "x": 30,
+    "y": 7
+  },
+  "glyphBounds": "{{1, 5}, {50, 13}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "↳ Placeholder Label",
+  "nameIsFixed": true,
+  "resizingConstraint": 43,
+  "resizingType": 1,
+  "rotation": 0,
+  "sharedStyleID": "89659D2E-101C-49E0-9BE6-753BAFEC328B",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7026998299319728,
+          "green": 0.6818217928447421,
+          "red": 0.6818217928447421
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProDisplay-Light",
+            "size": 17
+          }
+        },
+        "kerning": 0.4099999964237213,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

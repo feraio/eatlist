@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B94260B1-6E5E-4A56-8C63-2B7C87538A53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1FEE828-16AD-486E-963D-CFB0C33E6908",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C8B1B4C-2D82-4D82-9BDC-BC5101E2DF02",
+    "height": 151,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars / Navigation Bar / iPhone X / Light - Large with Search2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E91BA1C9-3523-4C16-9369-88F4A3008D33_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4C1DE64-92AC-478F-895C-8526E161B7F2_stringValue",
+      "value": "Populares"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E555D0ED-B0DF-4240-BB18-C187AF22B0A2/50C37930-9654-45A0-89F5-FCAD7F44B2D8_stringValue",
+      "value": "Buscar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F981B12-833D-4C07-9983-34A85F391594",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "723C89F7-16E5-401C-8F48-3179112381A9",
+  "verticalSpacing": 0
+}

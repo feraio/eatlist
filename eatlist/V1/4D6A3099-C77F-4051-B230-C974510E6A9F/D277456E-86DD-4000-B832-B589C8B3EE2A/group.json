@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D277456E-86DD-4000-B832-B589C8B3EE2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FA945631-FD64-450B-BA5D-22807F9437A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DC0BD8F-2126-4BD9-8743-06600ABB39B9"
+    },
+    {
+      "class": "text",
+      "id": "1410409A-8EB7-40BD-AD7E-94080C1614CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "503B8F96-D91D-44F5-946B-D005E01ED0F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78D17A90-861A-43CF-B31D-D63E2C8D6918"
+    }
+  ],
+  "name": "Bars / Navigation Bar / iPhone X / Light - Large with Search2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

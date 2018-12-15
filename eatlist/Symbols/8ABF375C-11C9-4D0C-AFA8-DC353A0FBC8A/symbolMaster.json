@@ -1,0 +1,129 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AD82B96E-48FA-4FE9-9137-261A95ACA0E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4181,
+  "clippingMaskMode": 0,
+  "do_objectID": "8ABF375C-11C9-4D0C-AFA8-DC353A0FBC8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CF066F1-79D4-4DA3-A675-E011DD04D98F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F589C8F-1BDA-48ED-9C1A-31898629E784",
+    "height": 48,
+    "width": 375,
+    "x": 452,
+    "y": 210
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05160F6B-EED6-43E5-B272-9579A7FA8A79",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BBA68FC2-92F3-4D9C-A0C5-2277D8E893BB"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "BEDCAFBF-396C-4AF9-9A4A-5C3DBA64C504"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "63E9E4FB-97BA-4572-8DA1-F66225CDD13C"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "CBBB0302-51FF-47F2-9C8E-EB5EFC6F4247"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "2CA58773-4D1D-41A5-BDB4-45EF349F08E6"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "7385E2CB-9F51-4BD2-A886-4559922A6440"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AC730D2-EFDF-47DE-9EE2-DC3A7AB2A269"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81520A5E-E42C-4F11-B477-4C3068AAA3A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27412ACB-A560-4066-A9B8-E2C514E1D3D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "991C81B1-4CD9-477A-8389-9E0C734D254D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F7AB26B-0DD6-4CE7-8109-38B3F7C049E6"
+    }
+  ],
+  "name": "Bars / Tab Bar / iPhone 8 / Light - 5 Tabs",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18D78D97-3A65-44FC-AAAE-0E95CE5949C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "89879D1C-D941-46BD-B49E-2844644644F9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DA9A12FE-3C42-4B13-A839-988D83DF5B2D",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D4CAF63-6078-4ECC-83BE-3D12C6AA4CEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B7AD7E9-4DEB-425D-BB25-11BB04519F58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "159CBECE-002A-4B4D-86B2-19AD8F3FA974",
+    "height": 36,
+    "width": 65,
+    "x": 282,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "08720C32-046B-4549-8DBE-2ABDE86081E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "D7577F88-6639-40E6-93AC-37D4A26D366C"
+    },
+    {
+      "class": "group",
+      "id": "6A3D017E-E93D-4EAC-9A62-32E1850151BE"
+    }
+  ],
+  "name": "Tab 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F03F5A8-D8BD-416C-94F6-C133E4641F32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

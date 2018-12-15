@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A67484D-DA57-4390-9099-265213245CA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64B74AA6-D7BB-4428-8841-1AF14D9C5170",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28C5362C-CE84-45CB-83DD-253C4E82D56F",
+    "height": 366,
+    "width": 326,
+    "x": 93,
+    "y": 79
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "833AE206-98F8-47F0-9E1A-C8BED4991828"
+    },
+    {
+      "class": "shapePath",
+      "id": "32FF71DB-0C55-4522-8464-4E199DF30074"
+    },
+    {
+      "class": "shapePath",
+      "id": "82CF8791-2AEC-4DE5-8E74-7D0400211E48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "877E2624-63E0-48CC-A7B0-B1A3DD231CD7"
+    }
+  ],
+  "name": "Glyph",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B29C8889-1A35-4994-A390-7131FA741DC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

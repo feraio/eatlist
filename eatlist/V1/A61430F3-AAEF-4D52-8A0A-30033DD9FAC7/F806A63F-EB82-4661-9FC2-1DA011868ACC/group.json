@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F806A63F-EB82-4661-9FC2-1DA011868ACC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D3EAB24-1B1C-4599-A26A-70751018212E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "4D6A3099-C77F-4051-B230-C974510E6A9F",
+    "do_objectID": "DF5BC324-76AB-4F55-AFD7-283920410C95"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86173BD2-AF46-4C1B-9557-2E328DFD4A1C",
+    "height": 125,
+    "width": 104,
+    "x": 16,
+    "y": 99
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05BD847D-1C07-43AC-A9E2-09C31AB0AB94"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C965061-2BF4-4DFB-8FDA-F9D856B78EA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

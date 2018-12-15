@@ -1,0 +1,123 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F2DC5D19-12E4-45F3-BD47-8A279272CDF3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 6166,
+  "clippingMaskMode": 0,
+  "do_objectID": "897D6D3F-840F-4A5A-B23A-9D18E5127E71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "940301A9-54D1-4907-AD98-FC3E052DF8A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E882FF9A-96A0-48B0-8E46-C8D4098C874F",
+    "height": 192,
+    "width": 375,
+    "x": 927,
+    "y": 210
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7AA0D15D-1A87-41FE-B1B5-3FCF1B63C30C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B3647B1E-88A7-4015-B1FD-8BD0A2C978D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F321F214-7B0D-42D3-BEDB-8E33EE41138D"
+    },
+    {
+      "class": "text",
+      "id": "FAE9E1B8-5586-47C8-9A24-157ACDFA7517"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8661B70C-419E-4E3A-A542-F53089AA19D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AE8C561-6BFA-4947-ADFC-57459EEA2772"
+    }
+  ],
+  "name": "Bars / Navigation Bar / iPhone X / Light - Large with Search",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D4E962E-9FF5-47C6-9179-55CF5FFC9936",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A75C0AC5-3BE1-4125-83E4-C3783ACA1D11",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7AD3DC41-3D03-4B26-8E04-9DAB471EEAB7",
+    "guides": [
+    ]
+  }
+}

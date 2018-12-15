@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C4E844F-E39B-4210-AAB5-4E59ACBD0CAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06F2CAEE-61DE-47F4-A51F-C00101E08CFA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C3ECD82-058D-490F-9759-D0E012E26038",
+    "height": 49,
+    "width": 121,
+    "x": 127,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA9CB72B-F9D1-4D0D-8635-ACB215ED858F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C75721B1-C2DB-44C6-A0E4-C0FA03C965AC",
+  "verticalSpacing": 0
+}

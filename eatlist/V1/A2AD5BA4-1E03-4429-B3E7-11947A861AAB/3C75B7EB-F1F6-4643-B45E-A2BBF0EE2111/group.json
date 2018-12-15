@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C75B7EB-F1F6-4643-B45E-A2BBF0EE2111",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C5D9055-3B65-425D-93B9-3CF9830D1D05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23D0C627-0836-4210-B545-1E3AFBA269B8",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 619
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1469260F-6125-4BFA-977C-EF7F97004F8C"
+    },
+    {
+      "class": "text",
+      "id": "142E9490-3430-4B73-A4ED-3DAFCFE42CB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "2785DD20-9680-4BDC-A49A-527348C2499B"
+    },
+    {
+      "class": "group",
+      "id": "4669431D-142C-4DF5-8C2E-35A5A15017CE"
+    },
+    {
+      "class": "group",
+      "id": "AE66CAC5-B086-4125-A30E-E581EB04737F"
+    }
+  ],
+  "name": "Bars / Tab Bar / iPhone 8 / Light - 3 Tabs",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57C0EABA-E76B-49C1-B964-1259BFC85FB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
